@@ -3,7 +3,15 @@
   "minAppVersion": "1.0",
   "notice": "",
   "noticeURL": "",
-  "alerts": [],
+  "alerts": [
+    {
+      "id": "test-2026-10-22",
+      "level": "normal",
+      "title": "Test alert from Mantle",
+      "body": "This is a one-time test of parish alerts. No action needed.",
+      "expires": "2026-10-22"
+    }
+  ],
   "add": [],
   "cancel": []
 }
