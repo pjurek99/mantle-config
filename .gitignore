@@ -1,0 +1,2 @@
+# Per-session state written by the guardrails plugin
+.claude/guardrails/
